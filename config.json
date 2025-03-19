@@ -1,17 +1,17 @@
 {
-  "token": "Токен от группы ВКонтакте",
+  "token": "vk1.a.ddcWfuo8QYYGGV7VaH_9j_IlybbMO8xBgELcErPaNRKxW6PVtwYzWqiSOEU_8f0bKpT6fOYW2QjV7xlqBhy8DZ1Ij2Q5OiSy1lOVh1I5cy7i8IYkqI7j7UUACjYCH9osgxcvfDvPc7aDw-E6wC_2pNHi2-f6wVjj44mrwSWkmmoNToIdtb0l6lb_9T5eHhAw40zAwcJ8H5s3f6Pf4cziYA",
   "servers": [
     {
       "rcon": {
-        "ip": "127.0.0.1",
-        "port": 25576,
-        "password": "password"
+        "ip": "186.777.9.7",
+        "port": 25785,
+        "password": "ZYz3BwCmnI"
       },
       "commands": {
-        "whitelist": [],
+        "whitelist": [say],
         "blacklist": ["op", "deop"],
         "access": [233731786, 2, 3],
-        "prefix": "/"
+        "prefix": "!"
       }
     }
   ]
